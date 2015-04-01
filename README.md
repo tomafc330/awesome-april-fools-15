@@ -2,6 +2,7 @@
 
 Some of these are taken from the [HackerNews](https://news.ycombinator.com/item?id=9302010) 
 
+- [Burner Cloud – Unlimited free cloud storage with a catch](http://cloud.burnerapp.com)
 - [https://cloud.google.com/actual-cloud/](https://cloud.google.com/actual-cloud/)
 - [http://www.microsoft.com/en/mobile/ms-dos/](http://www.microsoft.com/en/mobile/ms-dos/)
 - [http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11426501](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11426501)
